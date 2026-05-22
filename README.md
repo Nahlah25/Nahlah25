@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nahlah 👋
 
-<!--
-**Nahlah25/Nahlah25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+QA Automation Engineer with 4 years of experience
+in manual and automation testing across CRM and ERP 
+projects. Passionate about building robust test 
+frameworks and delivering quality software.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Automation:** Selenium WebDriver | FireFlink | POM Framework
+- **API Testing:** Rest Assured | Postman
+- **Languages:** Java | SQL (Oracle)
+- **Framework:** TestNG | Maven | Hybrid Data-Driven
+- **Tools:** JIRA | TestRail | Zephyr Scale | Git
+- **Testing:** Manual | Regression | API | Performance | Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+### 🔹 CRM Project
+- Manual Testing | JIRA | TestRail | Zephyr Scale | Postman
+
+### 🔹 ERP Project
+- Selenium Hybrid Framework | POM | Rest Assured
+- POJO Classes | TestNG | Maven
+
+## 🌱 Currently Working On
+- Selenium Advanced Framework Enhancement
+- API Automation with Rest Assured
+- SQL Optimization for Test Data Management
+
+## 📫 Reach Me
+- 📍 Bangalore | Remote
+- 💼 Open to: Remote | Bahrain | Dubai
+
+## 💡 Fun Fact
+I test everything — even my coffee ☕
